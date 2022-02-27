@@ -1,7 +1,5 @@
 # Hello 
 
-## Build With
-
 This project is uses:
 
 - Xcode 13.2 beta
